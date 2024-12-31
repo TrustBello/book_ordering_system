@@ -1,0 +1,8 @@
+# Required for GUI
+tkinter==0.1.0  # Note: Usually, tkinter is pre-installed with Python
+
+# Testing
+unittest  # Built-in module;
+
+# Logging
+logging  # Built-in module;
