@@ -51,7 +51,7 @@ book_ordering_system/
 ### Prerequisites
 
 - Python 3.7 or higher
-- Libraries: `tkinter` (pre-installed with Python), `unittest`, and `logging`
+- Libraries: `tkinter` (pre-installed with Python)
 
 ### Setup Steps
 
