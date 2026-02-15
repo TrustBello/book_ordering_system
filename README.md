@@ -161,7 +161,7 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 
 For queries or contributions, contact:
 
-- **Email**: your-email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/your-profile)
-
+- **Email**: trust7302@gmail.com
+- **GitHub**: [TrustBello](https://github.com/TrustBello/)
 ---
+
